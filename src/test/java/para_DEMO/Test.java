@@ -11,5 +11,6 @@ public class Test {
 		WebDriver driver = new ChromeDriver();
 		driver.get("http://youtube.com");
 		driver.get("http://flipkart.com");
+		driver.get("http://amazon.com");
 	}
 }
