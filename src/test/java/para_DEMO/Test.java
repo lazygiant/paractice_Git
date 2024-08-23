@@ -12,5 +12,6 @@ public class Test {
 		driver.get("http://youtube.com");
 		driver.get("http://flipkart.com");
 		driver.get("http://amazon.com");
+		driver.get("http://MMT.com");
 	}
 }
